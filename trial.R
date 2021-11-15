@@ -4,3 +4,8 @@ print("And now it lives on GitHub")
 
 
 # per fare tilde su mac premi alt + 5, per fare parentesi graffa premi shift + option + parentesi quadra, chiaro?
+
+x <- 1:20
+
+
+
